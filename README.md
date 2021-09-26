@@ -1,8 +1,7 @@
 # Python for beginner
 # <a href="https://numpy.org/"><img alt="NumPy" src="/img/numpylogo.png" height="60"></a>
-
-
-<span style="color:cyan; text-shadow: 2px 2px 10px cyan;">**NumPy**</span> is the fundamental package needed for scientific computing with Python.
+<span style="color:cyan; text-shadow: 2px 2px 10px cyan;">nhat</span>
+**NumPy** is the fundamental package needed for scientific computing with Python.
 
 - Website: https://www.numpy.org
 - Documentation: https://numpy.org/doc
