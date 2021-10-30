@@ -10,7 +10,7 @@
 - When data are unlabelled, supervised learning is not possible, and an unsupervised learning approach is required, which attempts to find natural clustering of the data to groups, and then map new data to these formed groups. The support-vector clustering[2] algorithm, created by Hava Siegelmann and Vladimir Vapnik, applies the statistics of support vectors, developed in the support vector machines algorithm, to categorize unlabeled data, and is one of the most widely used clustering algorithms in industrial applications.
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Svm_max_sep_hyperplane_with_margin.png" style="height: 400px; width:400px;">
 
-2. How to run file ***'support_vector_machine.py'***
+### 2. How to run file ***'support_vector_machine.py'***
   - Import libraries what support about read dataset.
     ```terminal
         
